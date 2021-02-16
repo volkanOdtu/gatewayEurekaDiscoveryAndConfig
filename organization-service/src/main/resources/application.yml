@@ -1,0 +1,6 @@
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 6000000
+        readTimeout: 6000000
